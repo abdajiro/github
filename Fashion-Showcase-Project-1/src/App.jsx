@@ -2,7 +2,7 @@
 import React from 'react';
 import Card from './Card';
 import brandsData from './BrandsData';
-import './App.css'; // Optional: Create an App.css file for styling
+import './App.css'; 
 
 const App = () => {
   return (

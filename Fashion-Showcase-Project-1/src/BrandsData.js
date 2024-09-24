@@ -2,7 +2,7 @@
 const brandsData = [
     {
       name: 'Gucci',
-      image: 'https://www.logolynx.com/images/logolynx/60/60d4c07535265a08b79f58d5399814ad.jpeg', // Replace with actual image URL
+      image: 'https://www.logolynx.com/images/logolynx/60/60d4c07535265a08b79f58d5399814ad.jpeg', 
       link: 'https://www.gucci.com',
     },
     {

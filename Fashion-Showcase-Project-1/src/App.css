@@ -41,6 +41,15 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: 
+    url('https://cdn-icons-png.flaticon.com/128/2774/2774424.png') no-repeat, /* T-shirt image */
+    url('https://cdn-icons-png.flaticon.com/128/2122/2122621.png') no-repeat, /* Pants image */
+    url('https://cdn-icons-png.flaticon.com/128/80/80807.png') no-repeat; /* Shoes image */
+  background-size: 100px, 120px, 80px; /* Sizes for each image */
+  background-position: top left, bottom right, bottom center; /* Positions for each image */
+  min-height: 100vh; /* Ensures the background covers the full viewport height */
+  position: relative;
+  overflow: hidden;
 }
 
 .card-container {

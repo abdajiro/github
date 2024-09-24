@@ -1,6 +1,6 @@
 // src/Card.js
 import React from 'react';
-import './Card.css'; // Optional: Create a CSS file for styling
+import './Card.css'; 
 
 const Card = ({ brand }) => {
   return (
